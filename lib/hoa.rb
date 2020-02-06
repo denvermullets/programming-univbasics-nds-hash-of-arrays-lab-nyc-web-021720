@@ -10,5 +10,5 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
   
   BASE_HOA[:chipmunks][2] = "RYAN"
-  
+  puts BASE_HOA[:chipmunks][2]
 end
